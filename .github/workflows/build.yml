@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'Library'
                   releaseName: 'Library v__VERSION__'
-                  releaseBody: 'library图书馆'
+                  releaseBody: '更改了这个的图标'
                   releaseDraft: false
                   prerelease: false
                   publish: true
